@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=120726&height=180&section=header&text=Olá!%20Eu%20sou%20Gabriel%20Ferreira%20&fontSize=38&fontColor=A78BFA&desc=Especialista%20em%20Análise%20de%20Dados%20%26%20Business%20Intelligence&descSize=18&descAlign=50&descAlignY=65&stroke=3B185F&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=120726&height=180&section=header&text=Olá!%20Eu%20sou%20Gabriel%20Ferreira%20👋&fontSize=38&fontColor=A78BFA&desc=Especialista%20em%20Análise%20de%20Dados%20%26%20Business%20Intelligence&descSize=18&descAlign=50&descAlignY=65&stroke=3B185F&strokeWidth=2" width="100%"/>
+</div>
+
+<div align="center">
   <h1>Olá! Eu sou Gabriel Bota 👋</h1>
   <p><b>Atuo com foco em Análise de Dados & Business Intelligence</b></p>
   <p><i>Transformando dados brutos em inteligência estratégica, métricas acionáveis e decisões baseadas em evidências.</i></p>
