@@ -1,17 +1,14 @@
-<div align="center">
-  <h1>Olá! Eu sou Gabriel Bota 👋</h1>
-  <p><b>Atuo com foco em Análise de Dados & Business Intelligence</b></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=120726&height=180&section=header&text=Ola!%20Eu%20sou%20Gabriel%20Bota&fontSize=38&fontColor=A78BFA&desc=Atuo%20com%20foco%20em%20Analise%20de%20Dados%20%26%20Business%20Intelligence&descSize=18&descAlign=50&descAlignY=65&stroke=3B185F&strokeWidth=2" width="100%" />
+</p>
 
-  <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=120726&height=180&section=header&text=Olá!%20Eu%20sou%20Gabriel%20Ferreira%20👋&fontSize=38&fontColor=A78BFA&desc=Especialista%20em%20Análise%20de%20Dados%20%26%20Business%20Intelligence&descSize=18&descAlign=50&descAlignY=65&stroke=3B185F&strokeWidth=2" width="100%"/>
-  </div>
-  
-  <p><i>Transformando dados brutos em inteligência estratégica, métricas acionáveis e decisões baseadas em evidências.</i></p>
-</div>
+<p align="center">
+  <i>Transformando dados brutos em inteligência estratégica, métricas acionáveis e decisões baseadas em evidências.</i>
+</p>
 
 ---
 
-👨‍💻 Sobre Mim & Formação
+### 👨‍💻 Sobre Mim & Formação
 
 - 🎓 Graduando em **Sistemas para Internet** pelo **Instituto Federal de Mato Grosso (IFMT)**.
 - 💼 Atuação voltada à **engenharia analítica, modelagem relacional, exploração estatística e criação de dashboards gerenciais**.
@@ -20,7 +17,7 @@
 
 ---
 
-🛠️ Stack Tecnológica & Ferramentas
+### 🛠️ Stack Tecnológica & Ferramentas
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="52" height="52"/> &nbsp;&nbsp;
@@ -45,24 +42,24 @@
 
 ---
 
-📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
 <div align="center">
   <a href="https://github.com/gabrielbotta">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&bg_color=120726&title_color=A78BFA&text_color=E9D5FF&icon_color=C084FC&border_color=3B185F&hide_border=false&include_all_commits=true&count_private=true" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=6&bg_color=120726&title_color=A78BFA&text_color=E9D5FF&border_color=3B185F&hide_border=false" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielbotta&show_icons=true&bg_color=120726&title_color=A78BFA&text_color=E9D5FF&icon_color=C084FC&border_color=3B185F&hide_border=false&include_all_commits=true&count_private=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbotta&layout=compact&langs_count=6&bg_color=120726&title_color=A78BFA&text_color=E9D5FF&border_color=3B185F&hide_border=false" />
   </a>
 </div>
 
 ---
 
-🚀 Projetos em Destaque
+### 🚀 Projetos em Destaque
 
 - 📊 **a adicionar**
 
 ---
 
-📬 Conecte-se Comigo
+### 📬 Conecte-se Comigo
 
 <div align="center">
   <a href="https://linkedin.com/in/gabriel-bota" target="_blank">
