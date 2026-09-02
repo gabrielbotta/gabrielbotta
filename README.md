@@ -11,6 +11,7 @@
 ### 👨‍💻 Sobre Mim & Formação
 
 - 🎓 Graduando em **Sistemas para Internet** pelo **Instituto Federal de Mato Grosso (IFMT)**.
+- 🎓 Curso técnico completo em **Informática** pelo IFMT (2022-2024).
 - 💼 Atuação voltada à **engenharia analítica, modelagem relacional, exploração estatística e criação de dashboards gerenciais**.
 - 🔍 Experiência prática no ciclo completo do dado: **extração, limpeza, modelagem dimensional/relacional, automações de fluxo e visualização interativa**.
 - 🎯 Foco em geração de valor por meio de **Storytelling com Dados**, otimização de métricas e suporte a tomadas de decisão de alto nível.
