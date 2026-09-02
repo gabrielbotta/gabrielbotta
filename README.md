@@ -55,9 +55,7 @@
 
 ### 🚀 Projetos em Destaque
 
-- 📊 **[Nome do Projeto de BI / Dashboard](link-do-repositorio):** Construção de pipeline de dados com SQL + visualização em Looker Studio / Power BI para acompanhamento de KPIs de desempenho.
-- 🐍 **[Nome da Análise Exploratória (EDA)](link-do-repositorio):** Limpeza, tratamento e análise estatística de dados abertos utilizando Python, Pandas, Matplotlib e Seaborn.
-- 🗄️ **[Modelagem Relacional de Banco de Dados](link-do-repositorio):** Esquema relacional completo em PostgreSQL com queries analíticas complexas, agregações e views otimizadas.
+- 📊 **A adicionar**
 
 ---
 
