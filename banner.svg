@@ -1,0 +1,14 @@
+<svg width="100%" height="160" viewBox="0 0 900 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fundo Roxo Escuro com Cantos Arredondados e Borda -->
+  <rect width="900" height="160" rx="14" fill="#120726" stroke="#3B185F" stroke-width="3"/>
+  
+  <!-- Título Principal -->
+  <text x="50%" y="68" dominant-baseline="middle" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="bold" fill="#F3E8FF">
+    Olá! Eu sou Gabriel Bota 👋
+  </text>
+  
+  <!-- Subtítulo / Especialidade -->
+  <text x="50%" y="112" dominant-baseline="middle" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="500" fill="#A78BFA">
+    Atuo com foco em Análise de Dados &amp; Business Intelligence
+  </text>
+</svg>
