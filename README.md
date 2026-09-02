@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=120726&height=180&section=header&text=Ola!%20Eu%20sou%20Gabriel%20Bota&fontSize=38&fontColor=A78BFA&desc=Atuo%20com%20foco%20em%20Analise%20de%20Dados%20%26%20Business%20Intelligence&descSize=18&descAlign=50&descAlignY=65&stroke=3B185F&strokeWidth=2" width="100%" />
+  <img src="./banner.svg" alt="Gabriel Bota Header" width="100%" />
 </p>
 
 <p align="center">
@@ -55,7 +55,9 @@
 
 ### 🚀 Projetos em Destaque
 
-- 📊 **a adicionar**
+- 📊 **[Nome do Projeto de BI / Dashboard](link-do-repositorio):** Construção de pipeline de dados com SQL + visualização em Looker Studio / Power BI para acompanhamento de KPIs de desempenho.
+- 🐍 **[Nome da Análise Exploratória (EDA)](link-do-repositorio):** Limpeza, tratamento e análise estatística de dados abertos utilizando Python, Pandas, Matplotlib e Seaborn.
+- 🗄️ **[Modelagem Relacional de Banco de Dados](link-do-repositorio):** Esquema relacional completo em PostgreSQL com queries analíticas complexas, agregações e views otimizadas.
 
 ---
 
